@@ -1,0 +1,46 @@
+    body,html {
+        background-color: rgb(250, 225, 100) ; 
+        margin:0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    i{
+        font-size: 90px;
+
+    }
+
+    #content-wrapper{
+        width: 960px;
+        margin: 0 auto;
+
+    }
+
+    h2, h3 {
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    h1 {
+        font-family: 'Noto Serif JP'; 
+        text-align: center;
+    }
+
+    h4{
+        text-align: center;
+        font-style: italic;
+    }
+
+    figcaption {
+        text-align: center;
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+        border:5px solid white;
+        border-image: 300px;
+    }
+
